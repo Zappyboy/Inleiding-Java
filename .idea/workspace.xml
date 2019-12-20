@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb28e28-3103-4563-b5ab-c71661a4d877" name="Default Changelist" comment="" />
+    <list default="true" id="1fb28e28-3103-4563-b5ab-c71661a4d877" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1VD4SyQSbUsz199e5Rb0CsXlM74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576774335528</updated>
-      <workItem from="1576774338681" duration="1729000" />
+      <workItem from="1576774338681" duration="1980000" />
     </task>
     <servers />
   </component>
@@ -76,5 +83,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="495" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1576775440689" />
+    <state x="441" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1576824436350">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="441" y="314" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1576824436350" />
+    <state x="554" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576824464034">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="554" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1576824464034" />
   </component>
 </project>
